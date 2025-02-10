@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AlexandruH97
-- 👀 I’m interested in fullstack / front end path
+- 👋 Hi, I’m Alex
+- 👀 I’m interested in fullstack dev
 - 🌱 I’m currently learning JS
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 
 <!---
